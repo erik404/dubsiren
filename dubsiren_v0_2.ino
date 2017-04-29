@@ -1,20 +1,6 @@
 /**
  * MASEGO SOUNDWORKS - Dub Siren v0.2
- * -----------------------------
- * 
- * Feature list
- * 
- * - LCD which displays parameter values
- * - Volume control
- * - Wailing siren
- * - reverse/reset function
- * - tone/pitch control (vco?)
- * - Oscilator
- * - sinus/square/triangle select
- * - tone/pitch control (vco?)
- * - LFO
- * - Delay (output) <- nice to have
- * 
+ * Erik-Jan van de Wal, MIT License 2017.
  **/
 
 #include <LiquidCrystal.h>;
