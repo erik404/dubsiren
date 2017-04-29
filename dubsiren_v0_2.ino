@@ -51,7 +51,7 @@ void setup() {
   lcd.print("ALL GLORY TO JAH");
   delay(1500);
 
-  //  pinMode(speakerPin, OUTPUT);
+  pinMode(speakerPin, OUTPUT);
   pinMode(ledPin, OUTPUT);
   pinMode(button0, INPUT);
   pinMode(button1, INPUT);
