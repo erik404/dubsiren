@@ -19,7 +19,7 @@ const int button2 = A2;
 
 // Wailing siren
 float wailingSirenFreq = freq;
-float wailingSienTimeSpeed = timeSpeed;
+float wailingSirenTimeSpeed = timeSpeed;
 const int wailingStartHz = 300;
 const int wailingEndHz = 3200;
 int wailingStart = wailingStartHz;
